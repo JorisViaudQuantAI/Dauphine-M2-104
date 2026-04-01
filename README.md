@@ -2,7 +2,7 @@
 
 Bienvenue dans l'épreuve finale du cours de Data Management. Cet examen pratique a pour but d'évaluer votre capacité à mener un projet de Data Science de bout en bout : du chargement des données brutes à la modélisation prédictive.
 
-**Durée :** 3 heures  
+**Durée :** 2 heures  
 **Support :** Jupyter Notebook (Python)
 
 ---
